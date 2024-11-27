@@ -1,0 +1,1 @@
+C:\Users\Corne.Ackerman2\RiderProjects\NavBugTest\NavBugTest\NavBugTest.csproj;x64

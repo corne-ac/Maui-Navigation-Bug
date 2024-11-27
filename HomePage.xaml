@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NavBugTest.HomePage">
+    <VerticalStackLayout>
+        <Label Text="HOmePAge"></Label>
+        <Label Text="This is a tab inside the Dasboard Page, it will not render a second time when navigate to."></Label>
+        <Button Text="Go Back to MainPage" Clicked="OnNavigateToPage2Clicked"></Button>
+    </VerticalStackLayout>
+</ContentPage>
